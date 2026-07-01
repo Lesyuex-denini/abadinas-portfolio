@@ -156,6 +156,13 @@ const recognitions = [
     image: "/recognitions/magna-cum-laude.jpg",
   },
   {
+    title: "QC Squad 3 Finalist",
+    subtitle: "Startup QC Program, Quezon City Government",
+    year: "2026",
+    stamp: "Startup\nFinalist",
+    image: "/recognitions/qc-squad-3.jpg",
+  },
+  {
     title: "3rd Place",
     subtitle: "DATAxYOUTH Innovation Challenge",
     year: "PLDT · Smart · UP Diliman",
