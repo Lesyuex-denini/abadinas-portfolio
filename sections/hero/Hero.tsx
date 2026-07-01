@@ -644,7 +644,7 @@ export default function Hero() {
   const leftContentRef = useRef<HTMLDivElement>(null);
   const coverColRef = useRef<HTMLDivElement>(null);
   const { openArchive } = useArchive();
-  const bp: "mobile" | "tablet" | "desktop" = "desktop";
+  const bp = useBreakpoint();
 
   /* Scroll-driven parallax */
   const { scrollYProgress } = useScroll({
