@@ -135,7 +135,7 @@ const SOCIALS = [
   },
   {
     title: "Email",
-    href: "mailto:hello@milaabadinas.dev",
+    href: "mailto:abadinasmilagros@gmail.com",
     icon: (
       <svg
         width="15"
@@ -306,7 +306,7 @@ export default function Footer() {
                   }}
                 >
                   <a
-                    href="mailto:hello@milaabadinas.dev"
+                    href="mailto:abadinasmilagros@gmail.com"
                     className="mag-footer-link"
                   >
                     <svg
